@@ -1,9 +1,11 @@
 # Marvellogram
-Marvellogram is a desktop application.
+
+Marvellogram is a java desktop application. This application is used to solve normal mathematics problems, in simple words we can say that it is the combinations of basic coding programs.
+
+## Some of the Screenshots of the application :-
 
 
 ![](Screenshots/enter.png)
-
 
 
 ![](Screenshots/home.png)
@@ -34,7 +36,6 @@ Marvellogram is a desktop application.
 
 
 ![](Screenshots/square.png)
-
 
 
 ![](Screenshots/matrixmultiplication.png)
