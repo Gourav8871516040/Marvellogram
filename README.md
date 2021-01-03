@@ -12,22 +12,22 @@ Marvellogram is a desktop application.
 ![](Screenshots/calculator.png)
 
 
-![](Screenshots/Check number.png)
+![](Screenshots/Checknumber.png)
 
 
-![](Screenshots/check number (2).png)
+![](Screenshots/checknumber(2).png)
 
 
-![](Screenshots/number conversion.png)
+![](Screenshots/numberconversion.png)
 
 
-![](Screenshots/matrix operations.png)
+![](Screenshots/matrixoperations.png)
 
 
 ![](Screenshots/apseries.png)
 
 
-![](Screenshots/number table.png)
+![](Screenshots/numbertable.png)
 
 
 ![](Screenshots/cube.png)
@@ -37,7 +37,7 @@ Marvellogram is a desktop application.
 
 
 
-![](Screenshots/matrix multiplication.png)
+![](Screenshots/matrixmultiplication.png)
 
 
 ![](Screenshots/exit.png)
